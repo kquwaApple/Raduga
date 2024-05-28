@@ -1,0 +1,250 @@
+.body  {
+    background-color:#FFEACB;
+overflow: hidden;
+
+
+}
+
+.Ksusga {
+	width: 3%;
+	position: absolute;
+	left: 1%;
+	top: 24%;
+   }
+
+   .q{position: relative;
+    background: #E7B693;
+    border-radius: 0px;
+    margin-top:0px;    
+    height: 100px; 
+
+    }
+
+	
+header {
+    padding: 1.1% 0%;
+}
+
+.qw{position: relative;
+    margin-top:12px; 
+margin-left:10px;
+width:120px;
+height:120px;   
+border-radius: 18px;	
+}	 							
+
+.o{
+
+ 
+    
+    
+
+        position: absolute;
+        top: 11%;
+        text-decoration: none;
+        left: 5%;
+        color: #FFF2DB;
+        font-size: 300%;
+        font-family: WhitehallCyr;	
+
+}	
+
+.p{position: relative;
+    width: 100%;
+    height: 130px;
+    background: #E7B693;
+    border-radius: 0px;
+    margin-top:10.4%;     
+
+}	
+
+  .a{position: relative;
+    top:2px;  
+    margin-left:2%;
+     color:#FFF2DB; 
+    font-size:120%;	
+    font-family: Skellyman;		
+}	
+    
+  .s{position: relative;
+    margin-top:-85px;  
+    margin-left:15%;
+     color:#FFF2DB; 
+    font-size:120%;	
+    font-family: Skellyman;		
+}	
+    
+.d{position: relative;
+    margin-top:0px;  
+    margin-left:15%;
+     color:#FFF2DB; 
+    font-size:120%;	
+    font-family: Skellyman;		
+}	
+
+.f{position: relative;
+    margin-top:-85px;  
+    margin-left:89%;
+     color:#FFF2DB; 
+    font-size:120%;	
+    font-family: Skellyman;		
+}	
+
+
+.g{position: relative;
+    margin-top:0px;  
+    margin-left:91.5%;
+     color:#FFF2DB; 
+    font-size:120%;	
+    font-family: Skellyman;		
+}	
+
+.qt{position: relative;
+    margin-top:-135px;  
+    margin-left:84%; 	
+    width:90px;
+    height:50px; 
+}	
+
+.qy{position: relative;
+    margin-top:-90px;  
+    margin-left:82%; 	
+    width:50px;
+    height:50px; 
+}	
+
+.vhod {position: relative;
+    width: 25%;
+    height: 350px;
+    background-color: #E7B693;
+    margin-top: 10%;
+    margin-left: 39%;
+    border-radius: 15px;
+}
+
+
+.l{position: relative;
+    font-family: Skellyman;	  
+    color: #FFEACB;
+    font-size: 150%;
+    margin-top: 5px;
+    margin-left:41%;
+}
+
+.imp{position: relative;
+    margin-left:15%;
+    font-family: Skellyman;	
+    width: 330px;
+}
+
+.vh{position: relative;
+    margin-left: 40%;
+    background-color:#ff6200;
+    width: 100px;
+    height: 40px;
+    margin-top:4%;
+    border-radius: 10px;
+    border:0;
+    color: #FFEACB;
+    font-family: Skellyman;	
+}
+
+.v{
+    position: relative;
+    margin-left: 13%;
+    background-color:#ff6200;
+    width: 130px;
+    height: 40px;
+    margin-top:6%;
+    border-radius: 10px;
+    border:0;
+    color: #FFEACB;
+    font-family: Skellyman;	
+
+}
+
+.avt{
+    position: relative;
+    margin-left: 15%;
+    background-color:#ff6200;
+    width: 130px;
+    height: 40px;
+    margin-top:6%;
+    border-radius: 10px;
+    border:0;
+    color: #FFEACB;
+    font-family: Skellyman;	
+
+}
+
+.reg{position: relative;
+    background-color:#ff6200;
+    width: 100px;
+    height: 40px;
+    margin-top:4.5%;
+    border-radius: 10px;
+    border:4;
+    color: #FFEACB;
+    font-family: Skellyman;	
+}
+
+#regWin {
+    display: none;
+}
+
+.login{
+    width:50px ;
+    height:50px;
+}
+
+.vima{
+    margin-top:10%;
+    margin-left: 10%;
+    height:40px;
+    font-family: Skellyman;	
+}
+
+.vda{
+    margin-top:40px;
+    margin-left: -57%;
+    height:40px;
+    font-family: Skellyman;	
+}
+
+.ose{
+    margin-top:10px;
+    margin-left: 10%;
+    height:40px;
+    width:395px;
+    font-family: Skellyman;	
+}
+
+.log{
+    height:40px;
+    margin-top:10px;
+    margin-left: 10%;
+    font-family: Skellyman;	
+
+}
+
+.par{
+    height:40px;
+    margin-top:10px;
+    margin-left: -80%;
+    font-family: Skellyman;
+    width:180px;
+
+}
+
+.otpr{
+    border-radius: 10px;
+    border:0;
+    color: #FFEACB;
+    font-family: Skellyman;	
+    background-color:#ff6200;
+    width: 100px;
+    height: 40px;
+    margin-top: 5%;
+    margin-left:40%;
+}
+
